@@ -14,7 +14,7 @@ export default function MFooter() {
         <div className="flex lg:flex-col flex-row gap-1">
           <div className="flex items-center justify-center">
             <a href="https://www.instagram.com/apataltamira/" target="_blank" rel="noopener noreferrer" className="flex items-center hover:text-(--text-color2) transition duration-300">
-              <AiFillInstagram /> Instagram
+              <AiFillInstagram /> Instagram test
             </a>
 
             <a href="mailto:apatadealtamira@gmail.com" target="_blank" rel="noopener noreferrer" className="flex items-center hover:text-(--text-color2) transition duration-300">
